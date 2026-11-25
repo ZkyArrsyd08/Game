@@ -1,8 +1,9 @@
+
 # Ikan Buntal (Godot 4.7)
 
 Buka folder ini di Godot 4.7 lalu tekan F5 (main scene: `main.tscn`).
 
-**Cara main**
+## Cara main
 - Gerak: kursor mouse / WASD / panah / geser jari (HP)
 - Kembung: tahan klik / Spasi / klik kanan / tombol KEMBUNG (HP)
 - Makan ikan kecil (hanya saat tidak kembung) untuk naik level dan membesar.
